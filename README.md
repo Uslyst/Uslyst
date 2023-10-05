@@ -13,7 +13,7 @@ Sou iniciante na programação, e pretendo trabalhar como Game Dev e BackEnd fut
 <div>   
  <img align="center" alt="Csharp" height="25"
   width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-        <h3>Minhas linguagens favoritas:</h3>
+       
 
 <hr>    
 <div/> 
