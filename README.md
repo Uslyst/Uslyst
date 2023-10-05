@@ -4,7 +4,7 @@ Irei postar todos os meus projetos em Python
 por aqui.
 Sou iniciante na programação, e pretendo trabalhar como Game Dev e BackEnd futuramente 💻💻.
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusjeffer&show_icons=true&theme=dark&count_private=False)
+![Uslyst GitHub stats](https://github-readme-stats.vercel.app/api?username=Uslyst&show_icons=true&theme=dark&count_private=False)
 ![Matheus Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJeffer&theme=dark&layout=compact)
 
 
