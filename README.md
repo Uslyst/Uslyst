@@ -5,8 +5,6 @@ I'm currently specializing in C# and developing small projects, which I will be 
 ![Uslyst GitHub stats](https://github-readme-stats.vercel.app/api?username=Uslyst&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
 ![Uslyst Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&hide=html&layout=compact&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api?username=Uslyst&show_icons=true&theme=dark&count_private=False
-
 <h3>Studying:</h3>
 <div>   
  <img align="center" alt="Csharp" height="25"
