@@ -7,13 +7,8 @@ I'm currently specializing in C# and developing small projects, which I will be 
 
 <h3>Studying:</h3>
 <div>   
- <img align="center" alt="Csharp" height="25"
-  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Cplusplus" height="25"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-
-<img alt="Cplusplus" height="25"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-          
+ <img align="center" alt="Csharp" height="35"
+  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 <hr>    
 <div/> 
