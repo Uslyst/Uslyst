@@ -16,7 +16,6 @@ I'm currently specializing in C# and developing small projects, which I will be 
 
 
 <div> 
-
   <a href = "mailto:uslysttheforger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
