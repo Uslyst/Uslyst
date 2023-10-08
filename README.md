@@ -10,7 +10,7 @@ I'm currently specializing in C# and developing small projects, which I will be 
  <img align="center" alt="Csharp" height="25"
   width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-<img align="center" alt="Csharp" height="25"
+<img alt="Csharp" height="25"
   width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
           
 
