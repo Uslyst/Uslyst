@@ -7,11 +7,13 @@ I'm currently specializing in C# and developing small projects, which I will be 
 
 <h3>Studying:</h3>
 <div>   
- <img align="center" alt="Csharp" height="35"
-  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 <hr>    
-<div/> 
+<div/>
+
 <div> 
   <a href = "mailto:uslysttheforger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>
