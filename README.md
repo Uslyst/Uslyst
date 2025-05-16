@@ -2,7 +2,7 @@
 
 ## ⚙️ Sobre Mim
 
-Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodidata que gosta de criar aplicativos para resolver problemas do dia a dia. A maioria dos meus projetos não estão públicos mas são voltados para produtividade ou experiências mais imersivas em jogos. Normalmente trabalho sozinho, aprendo na prática e programo porque realmente gosto.
+Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodidata que gosta de criar aplicativos para resolver problemas do dia a dia. A maioria dos meus projetos não estão públicos mas são voltados para produtividade ou experiências mais imersivas em jogos. Aprendo na prática e programo porque realmente gosto.
 
 ---
 
