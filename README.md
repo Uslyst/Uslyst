@@ -19,6 +19,7 @@ Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodida
 
 ## 🧠 Estudando atualmente
 
+- Boas práticas de estruturação de código em C#
 - Git e GitHub  
 - VPS, SSH e hospedagem em nuvem  
 - Java  
