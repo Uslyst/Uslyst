@@ -6,6 +6,8 @@ I'm currently specializing in C# and developing small projects, which I will be 
 ![Uslyst Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&hide=html&layout=compact&theme=tokyonight)
 
 <h3>Studying:</h3>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 <div>   
   <img align="center" alt="Csharp" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
