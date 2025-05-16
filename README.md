@@ -22,7 +22,6 @@ Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodida
 - Git e GitHub  
 - VPS, SSH e hospedagem em nuvem  
 - Java  
-- Planejo aprender Python e me aprofundar em IA no futuro
 
 ---
 
@@ -38,8 +37,7 @@ Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodida
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-Cloud-blue?style=flat&logo=cloudsmith&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTIiIGZpbGw9IiMwMDAwMDAiLz48dGV4dCB4PSIyMiIgeT0iNDMiIGZpbGw9IndoaXRlIiBmb250LXNpemU9)
-
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ---
 
@@ -49,7 +47,7 @@ Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodida
 - Finalizar e aprimorar minha série de mods para RimWorld  
 - Aprender a hospedar e gerenciar meus próprios projetos na nuvem  
 - Evoluir de aplicativos desktop para multi-plataforma  
-- Explorar IA de forma prática no futuro
+- Aprofundar mais em Python e em IA no futuro
 
 ---
 
