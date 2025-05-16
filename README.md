@@ -1,33 +1,54 @@
-## Uslyst 
+# 👋 Olá! Meu nome é Pedro — também conhecido como X
 
-I'm currently specializing in C# and developing small projects, which I will be sharing here. In the future, I aim to create a mod for a game that uses this language. I also have plans to learn Python and Java. Stay tuned!
+Sou um desenvolvedor autodidata que gosta de criar aplicativos para resolver problemas do dia a dia. A maioria dos meus projetos é voltada para produtividade ou experiências mais imersivas em jogos. Normalmente trabalho sozinho, aprendo na prática e programo porque realmente gosto.
 
-![Uslyst GitHub stats](https://github-readme-stats.vercel.app/api?username=Uslyst&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
-![Uslyst Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&hide=html&layout=compact&theme=tokyonight)
+---
 
-<h3>Studying:</h3>
+## 🚧 Projetos em andamento
+
+- Desenvolvendo um **aplicativo em Windows Forms** com **C#** e **Microsoft SQL Server**, seguindo boas práticas de programação orientada a objetos.  
+  É um app de produtividade onde posso criar tarefas, ganhar pontos e desbloquear recompensas personalizadas.  
+  Pretendo migrar para **.NET MAUI** futuramente.
+
+- Criando **mods para RimWorld**, com foco em imersão, sistema de personalidade e narrativa emergente.  
+  Uso C# diretamente com as DLLs do Unity para expandir a mecânica do jogo.
+
+---
+
+## 🧠 Estudando atualmente
+
+- Git e GitHub  
+- VPS, SSH e hospedagem em nuvem  
+- Java  
+- Planejo aprender Python e me aprofundar em IA no futuro
+
+---
+
+## 🧰 Ferramentas & Tecnologias
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=flat&logo=windows&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VPS](https://img.shields.io/badge/VPS-Cloud-blue?style=flat&logo=cloudsmith&logoColor=white)
 
-<div>   
-  <img align="center" alt="Csharp" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SqlServer" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Java" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="NodeJs" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Git" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="SSH" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg">
-          
-</div>
+---
 
-<hr>    
-<div/>
+## 🎯 Objetivos
 
+- Criar apps que realmente sejam úteis  
+- Finalizar e aprimorar minha série de mods para RimWorld  
+- Aprender a hospedar e gerenciar meus próprios projetos na nuvem  
+- Evoluir de aplicativos desktop para multi-plataforma  
+- Explorar IA de forma prática no futuro
 
-<div> 
-  <a href = "mailto:uslysttheforger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
-</div>
+---
 
+## 📬 Contato
+
+Se quiser trocar ideia sobre meus projetos ou colaborar, fique à vontade para me chamar ou abrir uma issue.  
+Ainda estou aprendendo, mas estou sempre criando algo novo.
