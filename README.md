@@ -37,6 +37,9 @@ Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodida
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-Cloud-blue?style=flat&logo=cloudsmith&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTIiIGZpbGw9IiMwMDAwMDAiLz48dGV4dCB4PSIyMiIgeT0iNDMiIGZpbGw9IndoaXRlIiBmb250LXNpemU9)
+
 
 ---
 
