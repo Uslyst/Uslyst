@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&layout=compact&theme=transparent&scale=1.5)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&theme=transparent" width="600" />
 
 # Olá! Sou **Uslyst**!
 
