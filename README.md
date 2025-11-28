@@ -12,9 +12,7 @@ Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodida
 
 ## 🚧 Projetos em andamento
 
-- Desenvolvendo um **aplicativo em Windows Forms** com **C#** e **Microsoft SQL Server**, seguindo boas práticas de programação orientada a objetos.  
-  É um app de produtividade onde posso criar tarefas, ganhar pontos e desbloquear recompensas personalizadas.  
-  Pretendo migrar para **.NET MAUI** futuramente.
+- Explorando ferramentas em ML e suas bibliotecas em python
 
 - Criando **mods para RimWorld**, com foco em imersão, sistema de personalidade e narrativa emergente.  
   Uso C# diretamente com as DLLs do Unity para expandir a mecânica do jogo.
