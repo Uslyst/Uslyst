@@ -21,26 +21,9 @@ Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodida
 
 ## 🧠 Estudando atualmente
 
-- Boas práticas de estruturação de código em C#
+- Python, C, Java
 - Git e GitHub  
 - VPS, SSH e hospedagem em nuvem  
-- Java  
-
----
-
-## 🧰 Ferramentas & Tecnologias
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=flat&logo=windows&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-Cloud-blue?style=flat&logo=cloudsmith&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ---
 
@@ -50,7 +33,7 @@ Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodida
 - Finalizar e aprimorar minha série de mods para RimWorld  
 - Aprender a hospedar e gerenciar meus próprios projetos na nuvem  
 - Evoluir de aplicativos desktop para multi-plataforma  
-- Aprofundar mais em Python e em IA no futuro
+- Aprofundar mais em Python e em IA
 
 ---
 
