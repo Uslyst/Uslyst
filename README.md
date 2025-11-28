@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&theme=transparent" width="600" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&theme=transparent" width="400" />
 
 # Olá! Sou **Uslyst**!
 
