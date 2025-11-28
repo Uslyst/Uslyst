@@ -7,6 +7,7 @@
 Meu nome é Pedro - também conhecido como Uslyst. Sou um desenvolvedor autodidata que gosta de criar aplicativos para resolver problemas do dia a dia. A maioria dos meus projetos não estão públicos e são voltados para produtividade ou experiências mais imersivas em jogos. Aprendo na prática e programo porque realmente gosto.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&theme=transparent" width="350" />
+
 ---
 
 ## 🚧 Projetos em andamento
