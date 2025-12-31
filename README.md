@@ -1,9 +1,15 @@
 ## ⚒️ **Uslyst**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&layout=compact&bg_color=0d1117&title_color=21B3C8&text_color=BFDBFE&border_color=21B3C8&hide_border=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&layout=compact&bg_color=ffffff&title_color=0891b2&text_color=1e293b&border_color=0891b2&hide_border=false">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&layout=compact&bg_color=0d1117&title_color=21B3C8&text_color=BFDBFE&border_color=21B3C8" width="400">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&layout=compact&bg_color=0d1117&title_color=21B3C8&text_color=BFDBFE&border_color=21B3C8">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&layout=compact&bg_color=ffffff&title_color=0891b2&text_color=1e293b&border_color=0891b2">
+
+  <img alt="Top Langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uslyst&layout=compact&bg_color=0d1117&title_color=21B3C8&text_color=BFDBFE&border_color=21B3C8"
+    width="400">
 </picture>
 
 ## Focus & Stack
